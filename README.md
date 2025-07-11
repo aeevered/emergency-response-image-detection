@@ -38,15 +38,6 @@ This project investigates the use of deep learning techniques for post-hurricane
 
 Using pre- labeled satellite images from this region, I develop several models for evaluating whether a satellite image contains a building that has flood damage. In particular, I focus on the application of Convolutional Neural Networks (CNNs), which are typically very effective at image classification and segmentatioin tasks. These models proved to have high accuracy (97%) at this task, as well.
 
-**Example Missclassifications**
-
-![](images/example_missclassifications.png)
-
-**Final CNN Model Summary**
-
-![](images/final_cnn_model_summary.png)
-
-
 **Final Model Evaluation**
 
 ![](images/final_model_evaluation.png)
