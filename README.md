@@ -1,4 +1,4 @@
-# Building Damage Response Image Detection
+# Building Damage Image Detection for Disaster Response
 
 
 ## Objective
