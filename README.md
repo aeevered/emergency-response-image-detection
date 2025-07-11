@@ -19,7 +19,7 @@ The purpose of this project is to use deep learning image classification to asse
 Assessment of damaged buildings is a critical step in emergency response after hurricanes and other severe weather events. Such assessments help guide where response and further evaluation is most needed, as well as provide an overall picture of infrastructure damage to a region. However, determining which buildings have sustained flood damage during hurricane events can be a difficult and time intensive process. When done via surveying of individual buildings, it may also require particular expertise in structural engineering or damage assessment.
 
 
-Remote Sensing (RS) and Geographic Information Technologies (GIS) technologies provide opportunities for automat- ing parts of this detection process. In particular, machine learning techniques have shown great success for satellite image classification tasks and could potentially be applied in this context.
+Remote Sensing (RS) and Geographic Information Technologies (GIS) technologies provide opportunities for automating parts of this detection process. In particular, machine learning techniques have shown great success for satellite image classification tasks and could potentially be applied in this context.
 
 
 This project investigates the use of deep learning techniques for post-hurricane damage assessment, focusing on Houston, TX after Hurricane Harvey (2017) as a case study. 
